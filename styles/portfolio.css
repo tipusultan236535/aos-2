@@ -1,0 +1,120 @@
+/* head related styles*/
+.header{
+    background-color: #FFF8F3;
+    
+}
+.banner-t{
+    padding: 40px 220px 150px ;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: rgba(229, 84, 115, 0.10);
+  
+
+}
+.btn{
+    border-radius: 5px;
+    background-color: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;}
+    .banner-title{
+        color: #272727;
+font-size: 80px;
+font-weight: 800;
+    }
+/* main section styles*/
+
+/* about section styles*/
+.section-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.skill-container{
+    display: flex;
+    text-decoration-line: underline;
+    margin:0 auto;
+    justify-content: center;
+    
+
+}
+
+.skill-1{
+   width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+
+}
+.skill-2{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    
+        
+
+}
+.skill-3{
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.tjs-s{
+    display: flex;
+    justify-content: center;
+   margin: 128px;
+
+border-radius: 8px;
+background-color: rgba(39, 39, 39, 0.05);
+}
+.hot-title{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+
+.instagram-text{
+    text-align: center;
+}
+.instagram-img{
+    display: flex;
+   justify-content: center;
+}
+.footer-text{
+    text-align: center;
+    padding: 128px;
+    background: #111010;
+    color: rgba(255, 255, 255, 0.90);
+}
+.text-primary{
+    color: #E55473;
+    
+}
+.background-tex{
+    text-align: center;
+}
+.text-around{
+   display: flex;
+   text-align: center;
+   justify-content: center;
+
+}
+
